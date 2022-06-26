@@ -14,7 +14,7 @@ Adafruit invests time and resources providing this open source code, please supp
 # Dependencies
  * [Adafruit BusIO](https://github.com/adafruit/Adafruit_BusIO)
 
-r Contributing
+# Contributing
 
 Contributions are welcome! Please read our [Code of Conduct](https://github.com/adafruit/Adafruit_DS3502/blob/master/CODE_OF_CONDUCT.md>)
 before contributing to help this project stay welcoming.
