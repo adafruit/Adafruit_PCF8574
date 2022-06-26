@@ -25,7 +25,6 @@
 
 #define PCF8574_I2CADDR_DEFAULT 0x20 ///< DS3502 default I2C address
 
-
 /*!
  *    @brief  Class that stores state and functions for interacting with
  *            the PCF8574 I2C Expander
