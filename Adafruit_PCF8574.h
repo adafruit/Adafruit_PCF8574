@@ -23,7 +23,7 @@
 #include <Adafruit_BusIO_Register.h>
 #include <Adafruit_I2CDevice.h>
 
-#define PCF8574_I2CADDR_DEFAULT 0x20 ///< DS3502 default I2C address
+#define PCF8574_I2CADDR_DEFAULT 0x20 ///< PCF8574 default I2C address
 
 /*!
  *    @brief  Class that stores state and functions for interacting with
