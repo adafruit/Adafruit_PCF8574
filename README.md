@@ -1,11 +1,11 @@
 # Adafruit PCF8574 [![Build Status](https://github.com/adafruit/Adafruit_PCF8574/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_PCF8574/actions)
 
-<a href="https://www.adafruit.com/products/"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="https://www.adafruit.com/products/5545"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
 This is the Adafruit PCF8574 I2C GPIO Exapnder library
 
 Tested and works great with the Adafruit PCF8574 Breakout Board 
-* http://www.adafruit.com/products/
+* http://www.adafruit.com/products/5545
 
 This chip uses I2C to communicate, 2 pins are required to interface
 
