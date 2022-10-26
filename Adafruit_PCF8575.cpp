@@ -1,9 +1,9 @@
 /*!
  *  @file Adafruit_PCF8575.cpp
  *
- *  @mainpage Adafruit PCF8575 I2C Potentiometer
+ *  @brief Adafruit PCF8575 I2C Potentiometer
  *
- *  @section intro_sec Introduction
+ *  @details
  *
  * 	I2C Driver for the NXP PCF8575 I2C GPIO expander
  *
@@ -14,21 +14,17 @@
  *  please support Adafruit and open-source hardware by purchasing products from
  * 	Adafruit!
  *
- *  @section dependencies Dependencies
+ *  Dependencies
  *
  *  This library depends on the Adafruit BusIO library
  *
- *  @section author Author
+ *  @author Author
  *
  *  ladyada for Adafruit Industries
  *
- * 	@section license License
+ * 	License
  *
  * 	BSD (see license.txt)
- *
- * 	@section  HISTORY
- *
- *     v1.0 - First release
  */
 
 #include "Adafruit_PCF8575.h"
