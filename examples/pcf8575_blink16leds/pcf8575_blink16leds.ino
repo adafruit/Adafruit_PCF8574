@@ -5,7 +5,7 @@
  * The PCF8575 cannot SOURCE current!
  */
 
-Adafruit_PCF8574 pcf;
+Adafruit_PCF8575 pcf;
 
 void setup() {
   while (!Serial) { delay(10); }
