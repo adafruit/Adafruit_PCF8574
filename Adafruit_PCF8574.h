@@ -41,7 +41,7 @@ public:
 private:
   uint8_t _readbuf = 0, _writebuf = 0;
 
-  Adafruit_I2CDevice *i2c_dev;
+  Adafruit_I2CDevice *i2c_dev = nullptr;
 };
 
 #endif
