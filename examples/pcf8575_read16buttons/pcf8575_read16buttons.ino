@@ -9,8 +9,7 @@ Adafruit_PCF8575 pcf;
 
 void setup() {
   Serial.begin(115200);
-  // while (!Serial) { delay(10); }
-
+  while (!Serial) { delay(10); }
   Serial.println("Adafruit PCF8575 button read test");
 
   if (!pcf.begin(0x20, &Wire)) {

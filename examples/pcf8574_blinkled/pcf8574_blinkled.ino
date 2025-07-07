@@ -9,8 +9,7 @@ Adafruit_PCF8574 pcf;
 
 void setup() {
   Serial.begin(115200);
-  // while (!Serial) { delay(10); }
-
+  while (!Serial) { delay(10); }
   Serial.println("Adafruit PCF8574 LED blink test");
 
   if (!pcf.begin(0x20, &Wire)) {
